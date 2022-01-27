@@ -105,7 +105,7 @@ span{
 }
 
 footer{
-    background-color: linear-gradient(to right,  #000000, #0000ff 25%, #0066ff 70%,  #000000);
+    background-image: linear-gradient(to right,  #000000, #0000ff 25%, #0066ff 70%,  #000000);
 }
 
 footer p{
