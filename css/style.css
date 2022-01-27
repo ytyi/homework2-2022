@@ -53,6 +53,14 @@ div{
     border-right: 10px;
 }
 
+.blue{
+    background-color: #0000ff;
+    text-align: center;
+    margin-right: 50px;
+    border-right: 10px;
+    border-bottom: 3px;
+}
+
 .yellow{
     background: #FFFF00;
     text-align: center;
@@ -62,13 +70,20 @@ div{
 
 }
 
+
+
 .yellow h2{
     color:#000000;
     text-shadow: #c7e2c7 2px 4px;
 }
 
+.yellow p{
+    color:#000000;
+
+}
+
 .green{
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 10px;
@@ -78,11 +93,11 @@ div{
 span{
     text-decoration: underline;
     text-shadow: none;
-    text-transform: upper;
+    text-transform: uppercase;
 }
 
 footer{
-    background-color: linear-gradient(to right,  #000000, #0000ff 25%, #0000ff 70%,  #000000);
+    background-color: linear-gradient(to right,  #000000, #0000ff 25%, #0066ff 70%,  #000000);
 }
 
 footer p{
